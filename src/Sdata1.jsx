@@ -8,15 +8,15 @@ import softwere from '../src/images/software.jpeg';
 const Sdata1 = [
     {
         imgsrc: web,
-        title: 'web devlopment',
+        title: 'Web Devlopment',
     },
     {
         imgsrc: app,
-        title: 'App devlopment',
+        title: 'App Devlopment',
     },
     {
         imgsrc: softwere,
-        title: 'Softwere devlopment',
+        title: 'Softwere Devlopment',
     },
     {
         imgsrc: digital,
@@ -24,11 +24,19 @@ const Sdata1 = [
     },
     {
         imgsrc: android,
-        title: 'Android devlopment',
+        title: 'Android Devlopment',
     },
     {
         imgsrc: marketimg,
         title: 'Marketing',
+    },
+    {
+        imgsrc: web,
+        title: 'Ethical Hacking',
+    },
+    {
+        imgsrc: softwere,
+        title: 'Cloud Computing',
     },
 ]
 export default Sdata1;
